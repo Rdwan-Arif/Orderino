@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817036821605",
+    "firebase_url": "https://orderino-7d89a.firebaseio.com",
+    "project_id": "orderino-7d89a",
+    "storage_bucket": "orderino-7d89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817036821605:android:866f8374032cca13",
+        "android_client_info": {
+          "package_name": "com.example.orderino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817036821605-5r71gvb3kvqgivm6htcrgv9cv5feu0en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orderino",
+            "certificate_hash": "f5d973a67e4e7fc00faf9e8bbd91cd89d273b49d"
+          }
+        },
+        {
+          "client_id": "817036821605-oe65sq4sep6vsm7jis8c9lj2n64c80a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1b5GW1nQc_MHJKzp61qFwKjO--zO3nns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817036821605-oe65sq4sep6vsm7jis8c9lj2n64c80a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
